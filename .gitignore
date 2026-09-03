@@ -1,0 +1,12 @@
+node_modules/
+
+# Merge intermediate / output artifacts
+combined.ts
+concat.*.txt
+*.mp4
+*.ts
+*.tgz
+
+# Test / log artifacts
+stdout.txt
+stderr.txt
